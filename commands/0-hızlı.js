@@ -24,7 +24,7 @@ if(message.attachments.first()) {
 
   } catch(error) {
     console.log(error);
-    console.log('c o d a r e :)');
+    console.log('L U X R E S T :)');
     return message.channel.send(`Bir hata oluştu. Lütfen; 
     - Sunucuda emoji yüklemek için yer olduğuna, 
     - Koyduğunuz dosyanın bir fotoğraf/gif olduğuna, 
